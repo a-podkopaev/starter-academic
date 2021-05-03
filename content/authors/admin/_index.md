@@ -6,7 +6,7 @@ title: Aleksandr (Sasha) Podkopaev
 superuser: true
 
 # Role/position/tagline
-role: Phd Student at Carnegie Mellon University
+role: PhD Student at Carnegie Mellon University
 
 # Organizations/Affiliations to show in About widget
 organizations:
