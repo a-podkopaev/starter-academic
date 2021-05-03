@@ -21,22 +21,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Distribution-free Uncertainty Quantification (Conformal prediction, calibration)
+- Distributional shifts
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statistics and Machine Learning
+    institution: Carnegie Mellon University
+    year: 2018- 
+  - course: MSc in Applied Mathematics
+    institution: Skolkovo Institute of Science and Technology, Moscow Institute of Physics and Technology
+    year: 2016-2018
+  - course: BSc in Applied Mathematics
+    institution: Moscow Institute of Physics and Technology
+    year: 2012-2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
