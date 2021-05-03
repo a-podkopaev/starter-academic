@@ -1,17 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Aleksandr (Sasha) Podkopaev
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Phd Student at Carnegie Mellon University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Statistics & Data Science Department
+  url: http://www.stat.cmu.edu
+  
+- name: Machine Learning Department
+  url: https://www.ml.cmu.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
