@@ -29,13 +29,12 @@ education:
   courses:
   - course: PhD in Statistics and Machine Learning
     institution: Carnegie Mellon University
-    year: 2018- 
   - course: MSc in Applied Mathematics
     institution: Skolkovo Institute of Science and Technology, Moscow Institute of Physics and Technology
-    year: 2016-2018
+    year: 2018
   - course: BSc in Applied Mathematics
     institution: Moscow Institute of Physics and Technology
-    year: 2012-2016
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,19 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'alexpodkopaev94@gmail.com'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=58-8sF8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/a-podkopaev
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/sasha-podkopaev/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
