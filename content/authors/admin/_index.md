@@ -68,5 +68,5 @@ email: ""
 highlight_name: false
 ---
 
-Hey there! I’m a 3rd year PhD student in the joint program between [Statistics & Data Science](http://www.stat.cmu.edu) and [Machine Learning](https://www.ml.cmu.edu) departments at [Carnegie Mellon University](https://www.cmu.edu). I am fortunate to be advised by Professor [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas). With focus on trustworthy ML, we consider questions related to distibution-free uncertainty quantification (conformal prediction, calibration) in various settings.
+Hey there! I’m a 3rd year PhD student in the joint program between [Statistics & Data Science](http://www.stat.cmu.edu) and [Machine Learning](https://www.ml.cmu.edu) departments at [Carnegie Mellon University](https://www.cmu.edu). I am fortunate to be advised by Professor [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas). With focus on trustworthy ML, we consider questions of distribution-free uncertainty quantification (conformal prediction, calibration) in various settings.
 
