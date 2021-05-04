@@ -39,7 +39,7 @@ abstract: Trustworthy deployment of ML models requires a proper measure of uncer
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
