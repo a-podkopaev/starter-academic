@@ -29,6 +29,7 @@ education:
   courses:
   - course: PhD in Statistics and Machine Learning
     institution: Carnegie Mellon University
+    year: in progress
   - course: MSc in Applied Mathematics
     institution: Skolkovo Institute of Science and Technology, Moscow Institute of Physics and Technology
     year: 2018
