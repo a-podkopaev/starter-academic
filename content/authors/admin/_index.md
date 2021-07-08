@@ -22,7 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Distribution-free Uncertainty Quantification (Conformal prediction, calibration)
-- Distributional shifts
+- Distribution shifts
 
 # Education to show in About widget
 education:
